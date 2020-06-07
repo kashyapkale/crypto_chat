@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171899643766",
+    "firebase_url": "https://cryptchat-b12c8.firebaseio.com",
+    "project_id": "cryptchat-b12c8",
+    "storage_bucket": "cryptchat-b12c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171899643766:android:49a01fb5c6892192003c57",
+        "android_client_info": {
+          "package_name": "co.kashyapkale.crypt_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171899643766-imh5h8v9cv8o7duk3b6r54o1cdfkt329.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoT_BX-J94_33kaOy7BuyfqsEl5i91cL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171899643766-imh5h8v9cv8o7duk3b6r54o1cdfkt329.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
