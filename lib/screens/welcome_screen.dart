@@ -51,7 +51,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   ),
                 ),
                 Text(
-                  'Flash Chat',
+                  'Crypt Chat',
                   style: TextStyle(
                     fontSize: 45.0,
                     fontWeight: FontWeight.w900,
@@ -64,14 +64,14 @@ class _WelcomeScreenState extends State<WelcomeScreen>
             ),
             RoundedButton(
               title: "Log In",
-              colour: Colors.lightBlueAccent,
+              colour: Colors.blueGrey,
               onPressed: () {
                 Navigator.pushNamed(context, LoginScreen.id);
               },
             ),
             RoundedButton(
               title: "Register",
-              colour: Colors.lightBlueAccent,
+              colour: Colors.blueGrey,
               onPressed: () {
                 Navigator.pushNamed(context, RegistrationScreen.id);
               },
