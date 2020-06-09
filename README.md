@@ -5,4 +5,5 @@ Thus providing maximum security with a temporary personal space.
 Find the screenshots of the project below :
 https://github.com/kashyapkale/crypto_chat/blob/master/screenshots/Capture3.PNG
 https://github.com/kashyapkale/crypto_chat/blob/master/screenshots/Capture2.PNG
-https://github.com/kashyapkale/crypto_chat/blob/master/screenshots/Capture.PNG
+![alt text](
+https://github.com/kashyapkale/crypto_chat/blob/master/screenshots/Capture.PNG)
